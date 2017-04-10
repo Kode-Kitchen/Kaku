@@ -78,7 +78,7 @@
         "tar.gz"
       ],
       "extraFiles": [
-        "misc/${os}/Kaku.desktop"
+        "misc/${os}/kaku.desktop"
       ]
     }
   },
